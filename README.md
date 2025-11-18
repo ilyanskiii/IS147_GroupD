@@ -37,3 +37,8 @@ GitHub and Docker can be used together to automate the entire Docker creation an
 Task 5: Generate & Publish JavaDocs Using GitHub Pages
 
 Create JavaDocs for the project, hosting them with GitHub Pages, and organizing the work using GitHub Projects. The goal is to document the codebase clearly, practice Java documentation standards, and publish a live documentation site.
+
+For example, we should follow the official Oracle JavaDoc Tool guidelines to structure our documentation, including:
+- Class-level descriptions
+- Method and constructor descriptions
+- `@param`, `@return`, and `@throws` tags where appropriate
