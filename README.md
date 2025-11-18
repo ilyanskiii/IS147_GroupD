@@ -41,4 +41,4 @@ Create JavaDocs for the project, hosting them with GitHub Pages, and organizing 
 For example, we should follow the official Oracle JavaDoc Tool guidelines to structure our documentation, including:
 - Class-level descriptions
 - Method and constructor descriptions
-- `@param`, `@return`, and `@throws` tags where appropriate
+- @param, @return, and @throws tags where appropriate
